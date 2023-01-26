@@ -9,4 +9,4 @@ Check the website clicking [here](https://dinhaviagens.com.br/)!
 
 ### To-do:
 - [ ] Other simple projects to improve my knowledge in HTML and CSS.
-- [ ] Add JavaScript to this website and make it interactive/functional
+- [ ] Learn JavaScript and add it to this website to make it interactive/functional
