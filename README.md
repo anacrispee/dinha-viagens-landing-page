@@ -14,7 +14,7 @@ Check the website clicking [here](https://dinhaviagens.com.br/)!
 - [ ] Learn JavaScript and add it to this website to make it interactive/functional
 - [ ] Add a hamburguer button/menu to the mobile version.
 
-📩 If you have any notes or suggestions about it, please contact me, I'll apreciate to hear you!]
+📩 If you have any notes or suggestions about it, please contact me, I'll apreciate to hear you!
 <div>
   <a href = "mailto:anacrispee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
