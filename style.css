@@ -1,0 +1,1688 @@
+@media screen and (min-width: 1024px) {
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #133f5a;
+}
+
+nav {
+    max-width: 100%;
+    width: 100%;
+    max-height: 100px;
+    height: 100px;
+    display: flex;
+    text-align: center;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    font-size:larger;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    max-width: 150px;
+    width: 150px;
+    margin: 8px;
+    margin-left: 40px;
+}
+
+ul {
+    list-style: none;
+    margin: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40px;
+}
+
+li {
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #133f5a;
+    font-weight: 600;
+}
+
+a:visited {
+    color: #133f5a;
+}
+
+a:hover {
+    color: #f07c00;
+}
+
+.imgbannerdesktop {
+    margin-top: 60px;
+    max-width: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+}
+
+.imagebannermobile {
+    display: none;
+}
+
+.cta1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.cta1p1 {
+    display: flex;
+    font-weight: 700;
+    font-size: large;
+}
+
+.cta1image img {
+    max-width: 300px;
+    width: 300px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.cta1image:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.aviaoctaicon {
+    max-width: 60px;
+    width: 60px;
+    margin: 20px;
+}
+
+.cta1img {
+    max-width: 300px;
+    width: 300px;
+    margin: 30px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.bandstrip1 {
+    background-color: #133f5a;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    max-height: 60px;
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boxsobrenos {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    font-size: larger;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.info {
+    margin: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+
+}
+
+.infoicon {
+    max-width: 50px;
+    width: 50px;
+    margin: 30px;
+}
+
+.local {
+    margin: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+
+}
+
+.localicon {
+    max-width: 40px;
+    width: 40px;
+    margin: 30px;
+}
+
+.viagens {
+    margin: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 5px;
+
+}
+
+.aviaoicon {
+    max-width: 60px;
+    width: 60px;
+    margin: 30px;
+}
+
+.lema {
+    margin: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 60px;
+
+}
+
+.agreementicon {
+    max-width: 65px;
+    width: 65px;
+    margin: 5px;
+}
+
+.bandstrip2 {
+    background-color: #133f5a;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    max-height: 60px;
+    height: 60px;
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.roteirosrodoviarios {
+    text-align: center;
+    font-size: larger;
+}
+
+.rodoviarios {
+    margin: 60px;
+}
+
+.boxrodoviarios {
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    flex-wrap: wrap;
+}
+
+.aparecida {
+    margin: 30px;
+}
+
+.aparecidaimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.aparecida img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.aparecida:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.buzioserj {
+    margin: 30px;
+}
+
+.buzioserjimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.buzioserj img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.buzioserj:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.juremapr {
+    margin: 30px;
+}
+
+.juremaprimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.juremapr img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.juremapr:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.machadinhors {
+    margin: 30px;
+}
+
+.machadinhorsimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.machadinhors img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.machadinhors:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.foz {
+    margin: 30px;
+}
+
+.foz img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.foz:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.fozimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.gramado {
+    margin: 30px;
+}
+
+.gramado img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.gramado:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.gramadoimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.roteirosaereos {
+    font-size: larger;
+    text-align: center;
+}
+
+.aereos {
+    margin: 60px;
+}
+
+.boxaereos {
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    flex-wrap: wrap;
+}
+
+.natal {
+    margin: 30px;
+}
+
+.natalimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.natal img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.natal:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.maceio {
+    margin: 30px;
+}
+
+.maceioimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.maceio img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.maceio:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.lencois {
+    margin: 30px;
+}
+
+.lencoisimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.lencois img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.lencois:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.trezetilias {
+    margin: 30px;
+}
+
+.trezetiliasimg {
+    max-width: 400px;
+    width: 400px;
+}
+
+.trezetilias img {
+    max-width: 400px;
+    width: 400px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.trezetilias:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.cta2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cta2p1 {
+    display: flex;
+    font-weight: 700;
+    font-size: large;
+}
+
+.hearticon {
+    max-width: 60px;
+    width: 60px;
+    margin: 20px;
+}
+
+.cta2img {
+    max-width: 300px;
+    width: 300px;
+    margin: 30px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.cta2image img {
+    max-width: 300px;
+    width: 300px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.cta2image:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.bandstrip3 {
+    background-color: #133f5a;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    max-height: 60px;
+    height: 60px;
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boxcontatos {
+    display: flex;
+    font-size: large;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cta3 {
+    display: block;
+}
+
+.cta3p1 {
+    display: flex;
+    margin: 20px;
+    align-items: center;
+}
+
+.megaphoneimg {
+    max-width: 60px;
+    width: 60px;
+    margin: 20px;
+}
+
+.cta3img {
+    max-width: 300px;
+    width: 300px;
+    margin: 20px;
+}
+
+.cta3image img {
+    max-width: 300px;
+    width: 300px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+    
+.cta3image:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transformt: scale(1.1);
+    transform: scale(1.1);
+}
+
+.email {
+    display: flex;
+    align-items: center;
+}
+
+.emailimg {
+    max-width: 40px;
+    width: 40px;
+    margin: 20px;
+}
+
+.insta {
+    display: flex;
+    align-items: center;
+}
+
+.instaimg {
+    max-width: 40px;
+    width: 40px;
+    margin: 20px;
+}
+
+.phones {
+    display: flex;
+    align-items: center;
+}
+
+.phoneimg {
+    max-width: 35px;
+    width: 35px;
+    margin: 20px;
+}
+
+.local2 {
+    display: flex;
+    align-items: center;
+}
+
+.local2img {
+    max-width: 30px;
+    width: 30px;
+    margin: 20px;
+}
+
+.contatos {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+    font-weight: 700;
+}
+
+.cta3imgmobile {
+    display: none;
+}
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+    body {
+        font-family: 'Nunito Sans', sans-serif;
+        color: #133f5a;
+    }
+    
+    nav {
+        max-width: 100%;
+        width: 100%;
+        max-height: 100px;
+        height: 100px;
+        display: flex;
+        text-align: center;
+        background-color: white;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        font-size:larger;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .logo {
+        max-width: 150px;
+        width: 150px;
+        margin: 8px;
+        margin-left: 40px;
+    }
+    
+    ul {
+        list-style: none;
+        margin: 10px;
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+        margin-right: 40px;
+    }
+    
+    li {
+        margin-left: 20px;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    a:link {
+        color: #133f5a;
+        font-weight: 600;
+    }
+    
+    a:visited {
+        color: #133f5a;
+    }
+    
+    a:hover {
+        color: #f07c00;
+    }
+    
+    .imgbannerdesktop {
+        margin-top: 25px;
+        max-width: 100%;
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+
+    .imagebannermobile {
+        display: none;
+    }
+    
+    .cta1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    
+    .cta1p1 {
+        display: flex;
+        font-weight: 700;
+        font-size: large;
+    }
+    
+    .aviaoctaicon {
+        max-width: 60px;
+        width: 60px;
+        margin: 20px;
+    }
+    
+    .cta1img {
+        max-width: 300px;
+        width: 300px;
+        margin: 30px;
+        margin-left: 60px;
+        margin-top: 60px;
+    }
+
+    .cta1image img {
+        max-width: 300px;
+        width: 300px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .cta1image:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .bandstrip1 {
+        background-color: #133f5a;
+        color: white;
+        font-weight: 600;
+        font-size: larger;
+        max-height: 60px;
+        height: 60px;
+        max-width: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .boxsobrenos {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        font-size: larger;
+        justify-content: center;
+    }
+    
+    .info {
+        margin: 60px;
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-bottom: 10px;
+    
+    }
+    
+    .infoicon {
+        max-width: 50px;
+        width: 50px;
+        margin: 30px;
+    }
+    
+    .local {
+        margin: 60px;
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-bottom: 5px;
+    
+    }
+    
+    .localicon {
+        max-width: 40px;
+        width: 40px;
+        margin: 30px;
+    }
+    
+    .viagens {
+        margin: 60px;
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-bottom: 5px;
+    
+    }
+    
+    .aviaoicon {
+        max-width: 60px;
+        width: 60px;
+        margin: 30px;
+    }
+    
+    .lema {
+        margin: 60px;
+        margin-left: 200px;
+        margin-right: 200px;
+        margin-bottom: 60px;
+    
+    }
+    
+    .agreementicon {
+        max-width: 65px;
+        width: 65px;
+        margin: 30px;
+    }
+    
+    .bandstrip2 {
+        background-color: #133f5a;
+        color: white;
+        font-weight: 600;
+        font-size: larger;
+        max-height: 60px;
+        height: 60px;
+        max-width: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .roteirosrodoviarios {
+        text-align: center;
+        font-size: larger;
+    }
+    
+    .rodoviarios {
+        margin: 60px;
+    }
+    
+    .boxrodoviarios {
+        display: block;
+        justify-content: center;
+        font-weight: 800;
+    }
+    
+    .aparecida {
+        margin: 30px;
+    }
+
+    .aparecidaimg {
+        max-width: 400px;
+        width: 400px;
+    }
+
+    .aparecida img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .aparecida:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    } 
+
+    .buzioserj {
+        margin: 30px;
+    }
+
+    .buzioserjimg {
+        max-width: 400px;
+        width: 400px;
+    }
+
+    .buzioserj img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .buzioserj:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    .juremapr {
+        margin: 30px;
+    }
+
+    .juremaprimg {
+        max-width: 400px;
+        width: 400px;
+    }
+
+    .juremapr img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .juremapr:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    .machadinhors {
+        margin: 30px;
+    }
+
+    .machadinhorsimg {
+        max-width: 400px;
+        width: 400px;
+    }
+
+    .machadinhors img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .machadinhors:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .foz {
+        margin: 30px;
+    }
+
+    .foz img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .foz:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .fozimg {
+        max-width: 400px;
+        width: 400px;
+    }
+    
+    .gramado {
+        margin: 30px;
+    }
+
+    .gramado img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .gramado:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .gramadoimg {
+        max-width: 400px;
+        width: 400px;
+    }
+    
+    .roteirosaereos {
+        font-size: larger;
+        text-align: center;
+    }
+    
+    .aereos {
+        margin: 60px;
+    }
+    
+    .boxaereos {
+        display: block;
+        justify-content: center;
+        font-weight: 800;
+    }
+
+    .natal {
+        margin: 30px;
+    }
+
+    .natal img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .natal:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .natalimg {
+        max-width: 400px;
+        width: 400px;
+    }
+
+    .maceio {
+        margin: 30px;
+    }
+    
+    .maceioimg {
+        max-width: 400px;
+        width: 400px;
+    }
+    
+    .maceio img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .maceio:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .lencois {
+        margin: 30px;
+    }
+    
+    .lencoisimg {
+        max-width: 400px;
+        width: 400px;
+    }
+    
+    .lencois img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .lencois:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .trezetilias {
+        margin: 30px;
+    }
+    
+    .trezetiliasimg {
+        max-width: 400px;
+        width: 400px;
+    }
+    
+    .trezetilias img {
+        max-width: 400px;
+        width: 400px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .trezetilias:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .cta2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    
+    .cta2p1 {
+        display: flex;
+        font-weight: 700;
+        font-size: large;
+    }
+
+    .cta2image img {
+        max-width: 300px;
+        width: 300px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .cta2image:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .hearticon {
+        max-width: 60px;
+        width: 60px;
+        margin: 20px;
+    }
+    
+    .cta2img {
+        max-width: 300px;
+        width: 300px;
+        margin: 30px;
+        margin-left: 60px;
+        margin-top: 60px;
+    }
+    
+    .bandstrip3 {
+        background-color: #133f5a;
+        color: white;
+        font-weight: 600;
+        font-size: larger;
+        max-height: 60px;
+        height: 60px;
+        max-width: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .boxcontatos {
+        display: flex;
+        font-size: large;
+        margin: 30px;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .cta3 {
+        display: block;
+    }
+    
+    .cta3p1 {
+        display: flex;
+        margin: 20px;
+        align-items: center;
+    }
+    
+    .megaphoneimg {
+        max-width: 60px;
+        width: 60px;
+        margin: 20px;
+    }
+    
+    .cta3img {
+        max-width: 300px;
+        margin: 20px;
+    }
+    
+    .email {
+        display: flex;
+        align-items: center;
+    }
+
+    .cta3image img {
+        max-width: 300px;
+        width: 300px;
+        -moz-transition: all 0.3s;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+        
+    .cta3image:hover img {
+        -moz-transform: scale(1.1);
+        -webkit-transformt: scale(1.1);
+        transform: scale(1.1);
+    }
+    
+    .emailimg {
+        max-width: 40px;
+        width: 40px;
+        margin: 20px;
+    }
+
+    .insta {
+        display: flex;
+        align-items: center;
+    }
+
+    .instaimg {
+        max-width: 40px;
+        width: 40px;
+        margin: 20px;
+    }
+    
+    .phones {
+        display: flex;
+        align-items: center;
+    }
+    
+    .phoneimg {
+        max-width: 35px;
+        width: 35px;
+        margin: 20px;
+    }
+    
+    .local2 {
+        display: flex;
+        align-items: center;
+    }
+    
+    .local2img {
+        max-width: 30px;
+        width: 30px;
+        margin: 20px;
+    }
+    
+    .contatos {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: flex-start;
+        font-weight: 700;
+    }
+
+    .cta3imgmobile {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+
+    body {
+        font-family: 'Nunito Sans', sans-serif;
+        color: #133f5a;
+    }
+    
+    nav {
+        max-width: 100%;
+        width: 100%;
+        max-height: 110px;
+        height: 110px;
+        background-color: white;
+        top: 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        display: block;
+        text-align: center;
+    }
+
+    .topics {
+        display: flex;
+        list-style: none;
+        justify-content: space-around;
+        margin-top: 5px;
+        align-content: center;
+        margin-right: 10%;
+    }
+    
+    .logo {
+        max-width: 100px;
+        width: 100px;
+        margin: 10px;
+        margin-bottom: 0;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    a:link {
+        color: #133f5a;
+        font-weight: 500;
+    }
+    
+    a:visited {
+        color: #133f5a;
+    }
+    
+    a:hover {
+        color: #f07c00;
+    }
+
+    .imgbannerdesktop {
+        display: none;
+    }
+
+    .imagebannermobile {
+        margin-top: 100px;
+        max-width: 100%;
+        width: 100%;
+        left: 0;
+        right: 0;
+    }
+    
+    .cta1 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    
+    .cta1p1 {
+        display: flex;
+        font-weight: 700;
+        font-size: medium;
+        margin-top: 20px;
+    }
+    
+    .aviaoctaicon {
+        max-width: 50px;
+        width: 50px;
+        margin: 20px;
+    }
+    
+    .cta1img {
+        max-width: 250px;
+        width: 250px;
+        margin-bottom: 20px;
+
+    }
+    
+    .bandstrip1 {
+        background-color: #133f5a;
+        color: white;
+        font-weight: 600;
+        font-size: larger;
+        max-height: 60px;
+        height: 60px;
+        max-width: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .boxsobrenos {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        font-size: larger;
+        justify-content: center;
+    }
+    
+    .info {
+        margin: 40px;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 10px;
+    
+    }
+    
+    .infoicon {
+        max-width: 50px;
+        width: 50px;
+        margin: 20px;
+    }
+    
+    .local {
+        margin: 40px;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 5px;
+    
+    }
+    
+    .localicon {
+        max-width: 40px;
+        width: 40px;
+        margin: 20px;
+    }
+    
+    .viagens {
+        margin: 40px;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 5px;
+    
+    }
+    
+    .aviaoicon {
+        max-width: 60px;
+        width: 60px;
+        margin: 20px;
+    }
+    
+    .lema {
+        margin: 40px;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 60px;
+    
+    }
+    
+    .agreementicon {
+        max-width: 65px;
+        width: 65px;
+        margin: 20px;
+    }
+    
+    .bandstrip2 {
+        background-color: #133f5a;
+        color: white;
+        font-weight: 600;
+        font-size: larger;
+        max-height: 60px;
+        height: 60px;
+        max-width: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .roteirosrodoviarios {
+        text-align: center;
+        font-size: large;
+    }
+    
+    .rodoviarios {
+        margin: 60px;
+    }
+    
+    .boxrodoviarios {
+        display: block;
+        justify-content: center;
+        font-weight: 800;
+    }
+    
+    .aparecida {
+        margin: 30px;
+    }
+        
+    .aparecidaimg {
+        max-width: 300px;
+        width: 300px;
+    }
+
+    .buzioserj {
+        margin: 30px;
+    }
+        
+    .buzioserjimg {
+        max-width: 300px;
+        width: 300px;
+    }
+
+    .juremapr {
+        margin: 30px;
+    }
+        
+    .juremaprimg {
+        max-width: 300px;
+        width: 300px;
+    }
+
+    .machadinhors {
+        margin: 30px;
+    }
+        
+    .machadinhorsimg {
+        max-width: 300px;
+        width: 300px;
+    }
+    
+    .foz {
+        margin: 30px;
+    }
+    
+    .fozimg {
+        max-width: 300px;
+        width: 300px;
+    }
+    
+    .gramado {
+        margin: 30px;
+    }
+    
+    .gramadoimg {
+        max-width: 300px;
+        width: 300px;
+    }
+    
+    .roteirosaereos {
+        font-size: larger;
+        text-align: center;
+    }
+    
+    .aereos {
+        margin: 60px;
+    }
+    
+    .boxaereos {
+        display: block;
+        justify-content: center;
+        font-weight: 800;
+    }
+        
+    .natal {
+        margin: 30px;
+    }
+    
+    .natalimg {
+        max-width: 300px;
+        width: 300px;
+    }
+
+    .maceio {
+        margin: 30px;
+    }
+    
+    .maceioimg {
+        max-width: 300px;
+        width: 300px;
+    }
+    
+    .lencois {
+        margin: 30px;
+    }
+    
+    .lencoisimg {
+        max-width: 300px;
+        width: 300px;
+    }
+    
+    .trezetilias {
+        margin: 30px;
+    }
+    
+    .trezetiliasimg {
+        max-width: 300px;
+        width: 300px;
+    }
+        
+    .cta2 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+        text-align: center;
+        margin-top: 60px;
+    }
+    
+    .cta2p1 {
+        display: flex;
+        font-weight: 700;
+        font-size: medium;
+    }
+    
+    .hearticon {
+        max-width: 50px;
+        width: 50px;
+        margin: 20px;
+    }
+    
+    .cta2img {
+        max-width: 250px;
+        width: 250px;
+        margin-bottom: 20px;
+    }
+    
+    .bandstrip3 {
+        background-color: #133f5a;
+        color: white;
+        font-weight: 600;
+        font-size: larger;
+        max-height: 60px;
+        height: 60px;
+        max-width: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .boxcontatos {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        font-size:small;
+        align-items: center;
+        align-content: center;
+    }
+    
+    .cta3p1 {
+        display: flex;
+        align-items: center;
+        align-content: center;
+    }
+    
+    .megaphoneimg {
+        max-width: 45px;
+        width: 45px;
+        margin: 20px;
+    }
+    
+    .cta3img {
+        display: none;
+    }
+
+    .cta3imgmobile {
+        max-width: 200px;
+        width: 200px;
+        margin-top: 10px;
+    }
+    
+    .email {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+    }
+    
+    .emailimg {
+        max-width: 30px;
+        width: 30px;
+        margin: 20px;
+    }
+
+    .insta {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+    }
+
+    .instaimg {
+        max-width: 30px;
+        width: 30px;
+        margin: 20px;
+    }
+    
+    .phones {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+    }
+    
+    .phoneimg {
+        max-width: 25px;
+        width: 25px;
+        margin: 20px;
+    }
+    
+    .local2 {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+    }
+    
+    .local2img {
+        max-width: 25px;
+        width: 25px;
+        margin: 25px;
+    }
+    
+    .contatos {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
