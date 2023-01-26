@@ -5,7 +5,7 @@ It is a very simple website, cause it's my first one.
 
 - One of the major challenges that I faced during the development of this website was making it **responsive**!
 - And one of the funcionalities that I couldn't implement was the **hamburguer menu** for mobile version!
-- On the other hand, I learned how to add animations to some elements.
+- On the other hand, I learned how to add animations to some elements and use flexbox.
 
 Check the website clicking [here](https://dinhaviagens.com.br/)!
 
