@@ -1,2 +1,3 @@
-# dinha-viagens-landing-page
-The first "official" website with HTML and CSS, made for a travel agency.
+## Dinha Viagens - Landing Page
+
+This is my first website with HTML and CSS, wich I developed from the design to the code.
