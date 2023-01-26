@@ -5,7 +5,7 @@ It is a very simple website, cause it's my first one.
 
 One of the major challenges that I faced during the development of this website was dealing with **responsivity**.
 
-Check the website clicking [here] (dinhaviagens.com.br).
+Check the website clicking [here](https://dinhaviagens.com.br/)).
 
 #### To-do:
 [x] The next task is to add JavaScript to it and make it interactive.
