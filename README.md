@@ -17,6 +17,7 @@ Esse foi meu primeiro site desenvolvido, usando apenas HTML e CSS.
 - Acesse o site [aqui](http://dinhaviagens.com.br/)
 
 ### Desafios que aprendi a lidar durante o projeto:
+- Flexbox
 - Responsividade
 - Animação de elementos
 - Primeira vez lidando com domínios e hospedagem de sites
