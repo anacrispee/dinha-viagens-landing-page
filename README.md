@@ -9,7 +9,7 @@ Em especial, visei exprimir através desse novo visual da agência as concepçõ
 
 - Cheque o redesign dessa logo no meu [Portfólio no Instagram](https://www.instagram.com/anacrisdesign/)
 
-## Desenvolvimento da Landing Page
+## Desenvolvimento da Landing Page:
 
 Esse foi meu primeiro site desenvolvido, usando apenas HTML e CSS.
 É uma landing page simples, voltado apenas para mostrar as viagens desta agência com Call to Actions linkando diretamente para o WhatsApp da empresa.
