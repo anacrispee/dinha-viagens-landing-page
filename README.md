@@ -14,9 +14,12 @@ Em especial, visei exprimir através desse novo visual da agência as concepçõ
 Esse foi meu primeiro site desenvolvido, usando apenas HTML e CSS.
 É uma landing page simples, voltado apenas para mostrar as viagens desta agência com Call to Actions linkando diretamente para o WhatsApp da empresa.
 
+- Acesse o site [aqui](http://dinhaviagens.com.br/)
+
 ### Desafios que aprendi a lidar durante o projeto:
 - Responsividade
 - Animação de elementos
+- Primeira vez lidando com domínios e hospedagem de sites
 
 ### Pontos de melhoria:
 - Adicionar um menu hamburguer para versão mobile
