@@ -20,6 +20,7 @@ Esse foi meu primeiro site desenvolvido, usando apenas HTML e CSS.
 - Flexbox
 - Responsividade
 - Animação de elementos
+- Manipulação de imagens para sites (extensão, tamanho de arquivo)
 - Primeira vez lidando com domínios e hospedagem de sites
 
 ### Pontos de melhoria:
