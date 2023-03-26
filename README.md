@@ -11,10 +11,13 @@ Em especial, visei exprimir através desse novo visual da agência as concepçõ
 
 ## Desenvolvimento da Landing Page:
 
-Esse foi meu primeiro site desenvolvido, usando apenas HTML e CSS.
+Esse foi meu primeiro site desenvolvido, usando apenas **HTML** e **CSS**.
 É uma landing page simples, voltado apenas para mostrar as viagens desta agência com Call to Actions linkando diretamente para o WhatsApp da empresa.
 
 - Acesse o site [aqui](http://dinhaviagens.com.br/)
+
+### Prototipação:
+Como foi meu primeiro site e eu não tinha quase nenhum conhecimento sobre projetos, realizei um protótipo de baixa fidelidade no Photoshop, apresentei ao cliente e este indicou mudanças aqui e ali até ficar do seu gosto, partindo finalmente para a fase de implementação.
 
 ### Desafios que aprendi a lidar durante o projeto:
 - Flexbox
