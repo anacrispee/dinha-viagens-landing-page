@@ -1,20 +1,27 @@
-## Dinha Viagens - Landing Page
+# Dinha Viagens
 
-This is my first website with **HTML** and **CSS**, which I developed from the design to the code.
-It is a very simple website, because it's my first one.
+## Redesign de logo:
+Primeiramente, foi feita uma reformulação de Logotipo e Identidade Visual para a Dinha, uma Agência de Viagens de Brusque/SC que atua neste setor na região há cerca de 20 anos, oferendo viagens para todo o Brasil e América do Sul.
 
-- One of the major challenges that I faced during the development of this website was making it **responsive**!
-- And one of the functionalities that I couldn't implement was the **hamburger menu** for the mobile version!
-- On the other hand, I learned how to add animations to some elements and use flexbox.
+Após realizar um briefing com o cliente e uma pesquisa sobre a Dinha, busquei extrair preceitos que a definisse: planejamento, responsabilidade e dedicação - termos que não ficaram só no papel, mas que tive o cuidado de empregar ao longo do desenvolvimento desse projeto.
 
-Check the website clicking [here](https://dinhaviagens.com.br/)!
+Em especial, visei exprimir através desse novo visual da agência as concepções de confiança, conforto, segurança, tranquilidade e atualidade.
 
-### To-do:
-- [ ] Other simple projects to improve my HTML and CSS skills.
-- [ ] Learn JavaScript and add it to this website, to make it interactive/functional.
-- [ ] Add a hamburger button/menu to the mobile version.
+- Cheque o redesign dessa logo no meu [Portfólio no Instagram](https://www.instagram.com/anacrisdesign/)
 
-📩 If you have any notes or suggestions about it, please contact me, I'll appreciate to hear you!
+## Desenvolvimento da Landing Page
+
+Esse foi meu primeiro site desenvolvido, usando apenas HTML e CSS.
+É uma landing page simples, voltado apenas para mostrar as viagens desta agência com Call to Actions linkando diretamente para o WhatsApp da empresa.
+
+### Desafios que aprendi a lidar durante o projeto:
+- Responsividade
+- Animação de elementos
+
+### Pontos de melhoria:
+- Adicionar um menu hamburguer para versão mobile
+
+📩 Se você tem observações e/ou sugestões sobre esse projeto, por favor entre em contato. Vou ter o prazer de te ouvir!
 <div>
   <a href = "mailto:anacrispee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
