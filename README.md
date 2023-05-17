@@ -27,7 +27,7 @@ Como foi meu primeiro site e eu não tinha quase nenhum conhecimento sobre proje
 - Primeira vez lidando com domínios e hospedagem de sites
 
 ### Pontos de melhoria:
-- Adicionar um menu hamburguer para versão mobile
+[ ] Adicionar um menu hamburguer para versão mobile
 
 📩 Se você tem observações e/ou sugestões sobre esse projeto, por favor entre em contato. Vou ter o prazer de te ouvir!
 <div>
